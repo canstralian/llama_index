@@ -1,0 +1,6 @@
+interface:
+  display_name: "Llama Index"
+  short_description: "Repo-specific patterns and workflows for llama_index"
+  default_prompt: "Use the llama_index repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
