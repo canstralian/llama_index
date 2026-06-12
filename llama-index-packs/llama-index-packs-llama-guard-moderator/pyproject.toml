@@ -36,7 +36,7 @@ python = ">=3.9,<4.0"
 torch = "^2.1.2"
 transformers = "^4.37.1"
 accelerate = "^0.26.1"
-llama-index-core = "^0.12.0"
+llama-index-core = ">=0.12,<0.15"
 
 [tool.poetry.group.dev.dependencies]
 ipython = "8.10.0"
